@@ -13,6 +13,7 @@ env/
 
 # Data files
 *.csv
+data/*.csv
 *.tsv
 *.xlsx
 *.json
