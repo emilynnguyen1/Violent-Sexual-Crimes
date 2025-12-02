@@ -13,6 +13,7 @@ Violent-Sexual-Crimes/
 - src/ # Reusable Python scripts or modules
 - reports/ # Figures, tables, and exported results
 - docs/ # Project documentation (proposal, sprint memos, etc.)
+- powerBI/ # Power BI Modeling Visualizations Dashboard
 - README.md # Project overview and instructions
 - .gitignore # Specifies files/folders to exclude from version control
 
